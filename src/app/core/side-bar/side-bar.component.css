@@ -1,0 +1,25 @@
+.sve {
+    background-color: rgba(77, 67, 67, 0.498);
+    height: 100vh;
+    border-top-right-radius: 30px;
+
+}
+
+h2 {
+    padding-bottom: 20px;
+    border-bottom: 2px solid rebeccapurple;
+    border-bottom-left-radius: 90px;
+}
+
+.row {
+    text-align: center;
+}
+
+a {
+   text-decoration: none;
+   color: black;
+}
+
+a:hover {
+    color: rgba(161, 26, 26, 0.55);
+}
