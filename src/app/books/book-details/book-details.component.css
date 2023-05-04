@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.sve {
+    height: 100vh;
+    background-color: bisque;
+    border: 3px solid rgb(54, 37, 27);
+}
+
+h2,h4,p {
+    padding: 10px;
+}
+
+b {
+    padding-right: 10px;
+}
+
+h2 {
+    border-bottom: 2px solid rgb(54, 37, 27);
+    border-bottom-right-radius: 50px;
+}
