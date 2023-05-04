@@ -1,13 +1,14 @@
 .sve {
-    background-color: rgba(77, 67, 67, 0.498);
+    background: linear-gradient(rgb(54, 37, 27), black);
     height: 100vh;
     border-top-right-radius: 30px;
 
 }
 
 h2 {
+    color: bisque;
     padding-bottom: 20px;
-    border-bottom: 2px solid rebeccapurple;
+    border-bottom: 2px solid rgb(0, 0, 0);
     border-bottom-left-radius: 90px;
 }
 
@@ -16,10 +17,11 @@ h2 {
 }
 
 a {
+   font-size: 20px;
+   color: bisque;
    text-decoration: none;
-   color: black;
 }
 
 a:hover {
-    color: rgba(161, 26, 26, 0.55);
+    color: rgb(255, 255, 255);
 }
